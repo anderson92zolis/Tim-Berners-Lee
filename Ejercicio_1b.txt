@@ -1,0 +1,19 @@
+Vamos a mejorar nuestra página sobre Tim Berners Lee.
+
+1 -  Utiliza etquetas semánticas (header, main, footer, etc) para organizar el contenido.
+
+2 - Descarga la foto de aquí:
+https://unsplash.com/es/fotos/enciende-el-monitor-que-muestra-el-lenguaje-de-programacion-u2Ru4QBXA5Q
+
+La recortas a 1920 x 768 puntos
+
+En squoosh la conviertes a formato avif, y te descargas las versiones de 1920*768, 1100*440 y 500*200 puntos de anchura.
+
+Pon la foto en la página html de modo que se ajuste sola a la anchura disponible.
+
+3 - De Google Fonts debes obtener las fuentes Roboto y Merryweather.
+Aplica Roboto a todo menos los títulos, que serán Merryweather.
+El texto de los títulos será de color crimson
+Tamaño del h1 : 32px
+Tamaño del h2 : 24px
+Tamaño del párrafo: 18px
